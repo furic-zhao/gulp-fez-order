@@ -1,0 +1,25 @@
+{
+  "name": "gulp-fez-order",
+  "version": "1.0.0",
+  "description": "以字母或数字降序排列数据流",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/furic-zhao/gulp-fez-order.git"
+  },
+  "keywords": [
+    "数据流排序",
+    "fez",
+    "字母降序排列",
+    "数字降序排列"
+  ],
+  "author": "furic-zhao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/furic-zhao/gulp-fez-order/issues"
+  },
+  "homepage": "https://github.com/furic-zhao/gulp-fez-order#readme"
+}
