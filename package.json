@@ -21,5 +21,10 @@
   "bugs": {
     "url": "https://github.com/furic-zhao/gulp-fez-order/issues"
   },
-  "homepage": "https://github.com/furic-zhao/gulp-fez-order#readme"
+  "homepage": "https://github.com/furic-zhao/gulp-fez-order#readme",
+  "dependencies": {
+    "minimatch": "^3.0.4",
+    "path": "^0.12.7",
+    "through": "^2.3.8"
+  }
 }
