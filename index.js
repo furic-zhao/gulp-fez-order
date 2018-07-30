@@ -1,6 +1,6 @@
  var Minimatch, path, through;
 
- through = require("through");
+ through = require("through2");
 
  Minimatch = require("minimatch").Minimatch;
 
