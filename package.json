@@ -1,6 +1,6 @@
 {
   "name": "gulp-fez-order",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "以字母或数字降序排列数据流",
   "main": "index.js",
   "scripts": {
