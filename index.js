@@ -59,5 +59,5 @@
      })(this));
      return this.emit("end");
    };
-   return through.obj(onFile, onEnd);
+   return through(onFile, onEnd);
  };
